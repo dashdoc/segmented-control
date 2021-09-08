@@ -80,6 +80,8 @@ export const SegmentedControlTab = ({
     fontSize: fontSize,
     fontFamily: fontFamily,
     fontWeight: fontWeight,
+    width: "100%",
+    textAlign: "center",
   };
 
   return (
